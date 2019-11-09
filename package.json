@@ -1,0 +1,22 @@
+{
+  "name": "flatmyarray",
+  "version": "1.0.0",
+  "description": "a simple solution to flat a multidimensional array of integers",
+  "main": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Squashy83/flatmyarray.git"
+  },
+  "author": "Simone Della Marca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Squashy83/flatmyarray/issues"
+  },
+  "homepage": "https://github.com/Squashy83/flatmyarray#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
